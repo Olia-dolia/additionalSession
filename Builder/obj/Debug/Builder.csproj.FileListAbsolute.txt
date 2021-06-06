@@ -1,0 +1,7 @@
+E:\Projects\C# 2 курс\Builder\bin\Debug\Builder.exe.config
+E:\Projects\C# 2 курс\Builder\bin\Debug\Builder.exe
+E:\Projects\C# 2 курс\Builder\bin\Debug\Builder.pdb
+E:\Projects\C# 2 курс\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+E:\Projects\C# 2 курс\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+E:\Projects\C# 2 курс\Builder\obj\Debug\Builder.exe
+E:\Projects\C# 2 курс\Builder\obj\Debug\Builder.pdb
