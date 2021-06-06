@@ -1,0 +1,7 @@
+E:\Projects\C# 2 курс\Confectionery\bin\Debug\Confectionery.exe.config
+E:\Projects\C# 2 курс\Confectionery\bin\Debug\Confectionery.exe
+E:\Projects\C# 2 курс\Confectionery\bin\Debug\Confectionery.pdb
+E:\Projects\C# 2 курс\Confectionery\obj\Debug\Confectionery.csprojAssemblyReference.cache
+E:\Projects\C# 2 курс\Confectionery\obj\Debug\Confectionery.csproj.CoreCompileInputs.cache
+E:\Projects\C# 2 курс\Confectionery\obj\Debug\Confectionery.exe
+E:\Projects\C# 2 курс\Confectionery\obj\Debug\Confectionery.pdb
